@@ -12,7 +12,7 @@ As a **Blockchain developer**, I'm skilled in developing decentralized applicati
 
 
 <a href="https://twitter.com/vixingo" target="_blank">
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"/>
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553"/>
 </a>
 <a href="https://www.fiverr.com/nazmul_8039/" target="_blank" >
    <img width="60px"  src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" />
