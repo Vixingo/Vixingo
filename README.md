@@ -10,8 +10,8 @@ As a **Blockchain developer**, I'm skilled in developing decentralized applicati
 ## With my expertise in mobile, web, and blockchain app development, I'm able to deliver end-to-end solutions that are secure, scalable, and user-friendly. Whether you need a new web application or want to build a decentralized application on the blockchain, I can help you achieve your goals and bring your vision to life.
 
 
-
-<a href="https://twitter.com/vixingo" target="_blank">
+<!---
+ <a href="https://twitter.com/vixingo" target="_blank">
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553"/>
 </a>
 <a href="https://www.fiverr.com/nazmul_8039/" target="_blank" >
@@ -21,6 +21,7 @@ As a **Blockchain developer**, I'm skilled in developing decentralized applicati
 <a href="https://www.linkedin.com/in/vixingo/" target="_blank">
    <img width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
+--->
 
 <br/>
 <br/>
