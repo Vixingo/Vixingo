@@ -1,7 +1,7 @@
 # ABOUT
 
 Hello, 
-I'm a **full stack Mobile and Web developer** and **Blockchain developer** with extensive experience in both fields.
+I'm a **full stack Mobile, Web** and **Blockchain developer** with extensive experience in both fields.
 
 As a **full stack web developer**, I specialize in developing scalable and responsive web applications using a variety of technologies such as **HTML**, **CSS**, **JavaScript**, **React**, **React Native**, **Next**, **Express** and **Node.js**. I have a strong understanding of user experience design principles and am passionate about creating web applications that are intuitive and easy to use. 
 
